@@ -1,6 +1,4 @@
-# excel-sales-dashboard
 Sales Data Analysis Dashboard
-
 This project focuses on analyzing sales data using Microsoft Excel tools including Power Query, Power Pivot, Pivot Tables, and Dashboard Visualization.
 
 Project Workflow
@@ -34,4 +32,4 @@ Microsoft Excel
 Power Query
 Power Pivot
 Pivot Tables
-Pivot Charts
+Pivot Chart
